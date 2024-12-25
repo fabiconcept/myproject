@@ -1,4 +1,5 @@
 import Greet from "@/components/Greet";
+import MultipleStyle from "@/components/MultipleStyle";
 import PracticeStyleSheet from "@/components/PracticeStyleSheet";
 import { useState } from "react";
 import { Image, ImageBackground, ScrollView, Text, View, Button, Pressable, Modal, StatusBar, ActivityIndicator, Alert } from "react-native";
@@ -45,6 +46,7 @@ export default function HomeScreen() {
       <Greet name="Bruce Lee" />
       <Greet name="Jackie" />
       <PracticeStyleSheet />
+      <MultipleStyle />
     </View>
   );
 }

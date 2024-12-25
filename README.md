@@ -22,3 +22,7 @@
 - Part 19 : Styling ✅
 - Part 20 : Stylesheet API ✅
 - Part 21 : Multiple Stylesheets ✅
+- Part 22 : Box Model ✅
+- Part 23 : Shadow and Elevation ✅
+- Part 24 : Style Inheritance ✅
+- Part 25 : Layout with Flexbox ✅
