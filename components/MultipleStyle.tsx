@@ -3,9 +3,9 @@ import { StyleSheet, Text, View } from "react-native";
 export default function MultipleStyle() {
     return (
         <View style={styles.container}>
-            {/* <View style={[styles.box, styles.lightGreenBg]}>
+            <View style={[styles.box, styles.lightGreenBg]}>
                 <Text>Light Green Box</Text>
-            </View> */}
+            </View>
             <View style={[styles.box, styles.lightBlueBg, styles.androidShadow]}>
                 <Text>Light Blue Box</Text>
             </View>
@@ -17,7 +17,9 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "plum",
-        padding: 20
+        padding: 20,
+        flexDirection: "row",
+        gap: 5
     },
     box: {
         height: 100,

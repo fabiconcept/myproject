@@ -26,3 +26,11 @@
 - Part 23 : Shadow and Elevation ✅
 - Part 24 : Style Inheritance ✅
 - Part 25 : Layout with Flexbox ✅
+- Part 26 : Code Setup ✅
+- Part 27 : Flex ✅
+- Part 28 : Flex Direction ✅
+- Part 29 : Justify Content ✅
+- Part 30 : Align Items ✅
+- Part 31 : Align Self✅
+- Part 32 : Flex Wrap ✅
+- Part 33 : Align Content ✅
