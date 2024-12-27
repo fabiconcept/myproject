@@ -34,3 +34,9 @@
 - Part 31 : Align Self✅
 - Part 32 : Flex Wrap ✅
 - Part 33 : Align Content ✅
+- Part 34 : Gap ✅
+- Part 35 : Flex Basis ✅
+- Part 36 : Flex Shrink ✅
+- Part 37 : Flex Grow ✅
+- Part 38 : Relative and Absolute Layout ✅
+- Part 39 : Dynamic User Interfaces ✅
